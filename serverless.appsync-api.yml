@@ -1,0 +1,2 @@
+name: sls-tweeter-backend
+schema: schema.api.graphql

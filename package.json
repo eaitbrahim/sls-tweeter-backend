@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/eaitbrahim/sls-tweeter-backend#readme",
   "devDependencies": {
-    "serverless": "^3.27.0"
+    "serverless": "^3.27.0",
+    "serverless-appsync-plugin": "^1.14.0"
   }
 }
