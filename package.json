@@ -19,7 +19,12 @@
   },
   "homepage": "https://github.com/eaitbrahim/sls-tweeter-backend#readme",
   "devDependencies": {
+    "aws-sdk": "^2.1304.0",
     "serverless": "^3.27.0",
-    "serverless-appsync-plugin": "^1.14.0"
+    "serverless-appsync-plugin": "^1.14.0",
+    "serverless-iam-roles-per-function": "^3.2.0"
+  },
+  "dependencies": {
+    "chance": "^1.1.9"
   }
 }
